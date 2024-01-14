@@ -19,7 +19,7 @@ The sentiment analysis aims to gauge both the public opinion where feelings expr
 
 **When:**
 - During the campaign leading up to the 2024 Indonesian election.
-- Period of data collection is November 19th - December 17th of 2023.
+- Period of data collection is November 15th - December 15th of 2023.
 
 **Where:**
 - Twitter platform, particularly tweets written in Bahasa Indonesia, discussing #PrabowoGibran2024 or related hashtags.
@@ -55,9 +55,9 @@ Analyzing the sentiment polarity and intensity of both Twitter discussions and N
 
 ### Twitter Sentiment Analysis
 
-- Dashboard 1 -> [Visualisasi Wordclouds](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_1/DashboardI?publish=yes)
+- Dashboard 1 -> [Phrases and Hashtags Wordclouds](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_1/DashboardI?publish=yes)
 - Dashboard 2 -> [Sentiments Distributions and Topic Exposure Analysis](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_2/Dashboard2?publish=yes)
-- Dashboard 3 -> [Twitter Accounts Analysis and Twitter Accounts with Highest Engagements](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_3/Dashboard3?publish=yes)
+- Dashboard 3 -> [Twitter Accounts Analysis](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_3/Dashboard3?publish=yes)
 - Dashboard 4 -> [Analysis of the Top 5 Twitter Accounts with the Highest Contribution of Tweets by Sentiment Category](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_4/Dashboard4?publish=yes)
 
 ### Media Sentiment Analysis
