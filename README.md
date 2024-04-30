@@ -55,10 +55,7 @@ Analyzing the sentiment polarity and intensity of both Twitter discussions and N
 
 ### Twitter Sentiment Analysis
 
-- Dashboard 1 -> [Phrases and Hashtags Wordclouds](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_1/DashboardI?publish=yes)
-- Dashboard 2 -> [Sentiments Distributions and Topic Exposure Analysis](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_2/Dashboard2?publish=yes)
-- Dashboard 3 -> [Twitter Accounts Analysis](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_3/Dashboard3?publish=yes)
-- Dashboard 4 -> [Analysis of the Top 5 Twitter Accounts with the Highest Contribution of Tweets by Sentiment Category](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_4/Dashboard4?publish=yes)
+- Dashboard -> [Phrases and Hashtags Wordclouds](https://public.tableau.com/app/profile/faris.arief.mawardi/viz/prabowo-gibran_twitter_sentiment_analysis_1/Story1?publish=yes)
 
 ### Media Sentiment Analysis
 
